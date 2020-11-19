@@ -10,8 +10,6 @@ import com.hoho.android.usbserial.driver.UsbSerialProber;
 
 import java.io.IOException;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 public class UsbConect extends Activity {
     private final String TAG = "UsbConect";
 

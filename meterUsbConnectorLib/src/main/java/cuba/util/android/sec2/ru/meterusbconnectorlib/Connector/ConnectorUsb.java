@@ -8,7 +8,6 @@ package cuba.util.android.sec2.ru.meterusbconnectorlib.Connector;
 import android.app.Activity;
 import android.content.Context;
 import android.hardware.usb.UsbManager;
-import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.hoho.android.usbserial.driver.UsbSerialDriver;
