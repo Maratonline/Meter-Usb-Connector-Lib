@@ -1,0 +1,3 @@
+include ':meterUsbConnectorLib'
+include ':app'
+rootProject.name = "Meter Usb Connector"
